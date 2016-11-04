@@ -1,8 +1,8 @@
 #!/bin/bash
 ##############################
-HOSTNAME="192.168.111.84"                       #数据库信息
-PORT="3306"
-USERNAME="root"
+HOSTNAME=""                       #数据库信息
+PORT=""
+USERNAME=""
 PASSWORD=""
 DATABASE="LogAnalysis"                          #数据库名称
 TABLENAME="LogAnalysis"                         #数据库中表的名称                                 
